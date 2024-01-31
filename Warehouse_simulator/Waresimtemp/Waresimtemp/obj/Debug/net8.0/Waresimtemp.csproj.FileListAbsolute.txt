@@ -1,0 +1,11 @@
+C:\Users\polle\source\repos\Waresimtemp\Waresimtemp\bin\Debug\net8.0\Waresimtemp.deps.json
+C:\Users\polle\source\repos\Waresimtemp\Waresimtemp\bin\Debug\net8.0\Waresimtemp.dll
+C:\Users\polle\source\repos\Waresimtemp\Waresimtemp\bin\Debug\net8.0\Waresimtemp.pdb
+C:\Users\polle\source\repos\Waresimtemp\Waresimtemp\obj\Debug\net8.0\Waresimtemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polle\source\repos\Waresimtemp\Waresimtemp\obj\Debug\net8.0\Waresimtemp.AssemblyInfoInputs.cache
+C:\Users\polle\source\repos\Waresimtemp\Waresimtemp\obj\Debug\net8.0\Waresimtemp.AssemblyInfo.cs
+C:\Users\polle\source\repos\Waresimtemp\Waresimtemp\obj\Debug\net8.0\Waresimtemp.csproj.CoreCompileInputs.cache
+C:\Users\polle\source\repos\Waresimtemp\Waresimtemp\obj\Debug\net8.0\Waresimtemp.dll
+C:\Users\polle\source\repos\Waresimtemp\Waresimtemp\obj\Debug\net8.0\refint\Waresimtemp.dll
+C:\Users\polle\source\repos\Waresimtemp\Waresimtemp\obj\Debug\net8.0\Waresimtemp.pdb
+C:\Users\polle\source\repos\Waresimtemp\Waresimtemp\obj\Debug\net8.0\ref\Waresimtemp.dll
